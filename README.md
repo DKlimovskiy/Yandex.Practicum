@@ -98,3 +98,4 @@ Pandas, scikit-learn, Numpy, Seaborn, Scipy, Bootstrap
 
 **Инструменты и техники:**
 Pandas, scikit-learn, Numpy, Matplotlib
+
